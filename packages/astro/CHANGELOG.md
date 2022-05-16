@@ -1,5 +1,11 @@
 # astro
 
+## 1.0.0-beta.29
+
+### Patch Changes
+
+- [#3376](https://github.com/withastro/astro/pull/3376) [`b1230152`](https://github.com/withastro/astro/commit/b1230152ff67ca9c184b24023651f4f8739097b8) Thanks [@matthewp](https://github.com/matthewp)! - Allow using aliases for hydrated scripts
+
 ## 1.0.0-beta.28
 
 ### Patch Changes

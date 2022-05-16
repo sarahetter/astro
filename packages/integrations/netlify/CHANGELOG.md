@@ -1,5 +1,11 @@
 # @astrojs/netlify
 
+## 0.4.0
+
+### Minor Changes
+
+- [#3377](https://github.com/withastro/astro/pull/3377) [`e1294c42`](https://github.com/withastro/astro/commit/e1294c422b3d3e98ccc745fe95d5672c9a17fe1f) Thanks [@sarahetter](https://github.com/sarahetter)! - Change out directories on dist and serverEntry
+
 ## 0.3.4
 
 ### Patch Changes
